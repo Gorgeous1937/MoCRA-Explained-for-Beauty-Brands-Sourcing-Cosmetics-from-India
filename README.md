@@ -16,10 +16,15 @@ The Responsible Person is the manufacturer, packer or distributor whose name app
 
 ## The main requirements at a glance
 • Facility registration. Facilities that manufacture or process cosmetics for distribution in the US need to be registered with the FDA, unless an exemption applies. Foreign facilities are generally expected to name a US agent.
+
 • Product listing. Each product is listed with the FDA, including its ingredients.
+
 • Safety substantiation. The Responsible Person must keep adequate evidence that the product is safe under its intended conditions of use.
+
 • Adverse event reporting. Serious adverse events must be reported to the FDA within the required period, and records must be kept.
+
 • Labeling. Labels must include a US contact for adverse event reports (such as an address, phone number or electronic contact), along with the existing requirements such as statement of identity, net quantity and ingredient list.
+
 • Good manufacturing practice. MoCRA directs the FDA to set GMP regulations for cosmetics. Check the current status of that rule.
 
 ## Is there a small-business exemption?
@@ -37,9 +42,13 @@ Manufacturing abroad does not change your obligations as the brand owner. What i
 6.  How will changes to the formula or packaging be communicated and approved?
 ## Common myths
 • Myth: my product is FDA approved because the factory is certified. A certificate describes the factory's quality system. It is not an approval of your product.
+
 • Myth: the manufacturer handles all compliance. The Responsible Person has legal duties that cannot be handed over by contract alone.
+
 • Myth: a small brand has no obligations. Some small businesses are exempt from parts of the law, but not from everything, and some product types are excluded from the exemption.
+
 Next steps
+
 Speak to a US regulatory consultant, choose a manufacturer that is open about its quality systems and documentation, and keep your own records organized from the first sample.
 Gorgeous Cosmos is a color cosmetics and skincare contract manufacturer in Rewari, Haryana. You can find out more at https://gorgeouscosmos.in.
 Disclosure: written by the Gorgeous Cosmos team.
